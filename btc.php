@@ -1,7 +1,7 @@
 <?php
 /*
 Name:Show My Btc
-Url:https://github.com/xiaoyaoking/mybtc
+Url:https://github.com/xiaoyaoking/showmybtc
 Time:2020/08/08
 */
 $c = json_decode(file_get_contents("c.json"),1);
