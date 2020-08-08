@@ -1,0 +1,17 @@
+{
+	"title": "My Btc",
+	"password":"123",
+	"currency": "CNY",
+	"currencylist":["USD","CNY"],
+	"showtime":"a",
+	"btc": [
+		{
+			"name": "小金库",
+			"key": "1JNwRa9SVHYtakuyAhAi48h5wSEWRncg8Z"
+		},
+		{
+			"name": "大宝库",
+			"key": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd"
+		}
+	]
+}
