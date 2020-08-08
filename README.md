@@ -41,3 +41,4 @@ show btc info
 	
 }
 
+![显示效果](https://github.com/xiaoyaoking/showmybtc/blob/master/show%20pic.jpg?raw=true)
